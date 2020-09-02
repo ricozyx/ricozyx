@@ -1,4 +1,6 @@
-### Hi there 👋
+# Welcome to
+
+[![Hi there 👋](https://i.imgur.com/K1lwdQx.png)](https://github.com/ricozyx/#)
 
 <!--
 **ricozyx/ricozyx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
