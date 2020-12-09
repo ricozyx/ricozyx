@@ -1,3 +1,3 @@
 # Welcome to
 
-[![Hi there 👋](https://i.imgur.com/K1lwdQx.png)](https://github.com/ricozyx/#)
+[![Hi there 👋](https://i.imgur.com/xuXD8R2.png)](https://github.com/Ricozyx/#)
