@@ -1,6 +1,7 @@
 
 # Welcome to 
 [![Hi there 👋](https://i.imgur.com/xuXD8R2.png)](https://github.com/Ricozyx/#)
+
 [![Github Follow](https://img.shields.io/github/followers/Ricozyx?color=1DA1F2&logo=github&label=Follow&style=for-the-badge)](https://github.com/Ricozyx)
 -  📚 I’m currently learning C# & C++
 <hr>
