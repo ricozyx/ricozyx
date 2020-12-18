@@ -6,7 +6,7 @@
 -  📚 I’m currently learning C# & C++
 <hr>
 
-### Spotify Playing 🎧
+### Spotify Now Playing 🎧
 ![Spotify](https://novatorem.ricozyx.vercel.app/api/spotify)
 <hr>
 
