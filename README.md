@@ -10,7 +10,7 @@
 ### Some more info
 Mostly interested in software development, infosec & cybersec.
 
-Currently learning JS & Electron. 
+Currently learning web dev stuff. 
 
 
 <hr>
