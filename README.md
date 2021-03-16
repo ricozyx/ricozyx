@@ -3,7 +3,7 @@
 [![Hi there 👋](https://i.imgur.com/xuXD8R2.png)](https://github.com/Ricozyx/#)
 <hr>
 
-### Some more info
+### Some info
 Mostly interested in software development, infosec & cybersec.
 
 Currently learning web dev stuff. 
