@@ -4,9 +4,7 @@
 <hr>
 
 ### Some info
-Mostly interested in software development, infosec & cybersec.
-
-Currently learning web dev stuff. 
+Mostly interested in software development & cybersec.
 
 
 <hr>
