@@ -4,7 +4,7 @@
 <hr>
 
 ### Some info
-Mostly interested in software development & cybersec.
+Mostly interested in software development & cybersecurity.
 
 
 <hr>
